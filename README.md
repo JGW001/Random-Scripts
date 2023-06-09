@@ -1,2 +1,1 @@
-# Skole Preview
- 
+Nogle få udvalgte filer
