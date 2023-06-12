@@ -8,7 +8,7 @@ using UnityStandardAssets.CrossPlatformInput;
 /// </summary>
 public class BaseProjectileWeapon : BaseWeapon
 {
-    /*[Header("BaseProjectileWeapon")]
+    [Header("BaseProjectileWeapon")]
     [Header("Components")]
     /// <summary> The player's camera</summary>
     [SerializeField] private PlayerCamera playerCamera = default;
@@ -187,6 +187,6 @@ public class BaseProjectileWeapon : BaseWeapon
         {
             DoZoom(false);
         }
-    }*/
+    }
 
 }
